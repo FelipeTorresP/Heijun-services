@@ -1,0 +1,147 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "HeijunDomain/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Syncfusion.DocIO.Net.Core": "18.3.0.47"
+        },
+        "runtime": {
+          "HeijunDomain.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "NETStandard.Library/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Syncfusion.Compression.Net.Core/18.3.0.47": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "18.3200.0.47",
+            "fileVersion": "18.3200.0.47"
+          }
+        }
+      },
+      "Syncfusion.DocIO.Net.Core/18.3.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "18.3.0.47",
+          "Syncfusion.Licensing": "18.3.0.47",
+          "Syncfusion.OfficeChart.Net.Core": "18.3.0.47",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.DocIO.Portable.dll": {
+            "assemblyVersion": "18.3200.0.47",
+            "fileVersion": "18.3200.0.47"
+          }
+        }
+      },
+      "Syncfusion.Licensing/18.3.0.47": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "18.3.0.47",
+            "fileVersion": "18.3.0.47"
+          }
+        }
+      },
+      "Syncfusion.OfficeChart.Net.Core/18.3.0.47": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0",
+          "Syncfusion.Compression.Net.Core": "18.3.0.47"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.OfficeChart.Portable.dll": {
+            "assemblyVersion": "18.3200.0.47",
+            "fileVersion": "18.3200.0.47"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeijunDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Net.Core/18.3.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iHgV6AV3p+YGi4Qukf6XLwucqOdEamBeQng64lhw461vUA4GucwW9elDu9fmfdF8BkMcFLLTOALEm0D0G3GJCw==",
+      "path": "syncfusion.compression.net.core/18.3.0.47",
+      "hashPath": "syncfusion.compression.net.core.18.3.0.47.nupkg.sha512"
+    },
+    "Syncfusion.DocIO.Net.Core/18.3.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Laqa3xgFv/rT9xvIPmcaA3V3PsJgzFUFCQzZk9/6PAHRjtOBpiSDodN5bKEK4HHNY1PaW0XFnrdemxPjvWoBaw==",
+      "path": "syncfusion.docio.net.core/18.3.0.47",
+      "hashPath": "syncfusion.docio.net.core.18.3.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/18.3.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q6EkpU2UxQM/CQZZWLj0hc7GNI1uEk6mUWz4mt2D1dzvm1M8MFTUNA4Dp1AQ+u+5OkmkDjgJNBpuXnDe6g+Haw==",
+      "path": "syncfusion.licensing/18.3.0.47",
+      "hashPath": "syncfusion.licensing.18.3.0.47.nupkg.sha512"
+    },
+    "Syncfusion.OfficeChart.Net.Core/18.3.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GiNOVvtHXOc7uraSuFf1WWBTFmMXM2cgvP0Oc16q8CRolmjEnbJ26yhhtFWPtZ/V4Z9dxDRchtn2q7sRMU5xyA==",
+      "path": "syncfusion.officechart.net.core/18.3.0.47",
+      "hashPath": "syncfusion.officechart.net.core.18.3.0.47.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    }
+  }
+}

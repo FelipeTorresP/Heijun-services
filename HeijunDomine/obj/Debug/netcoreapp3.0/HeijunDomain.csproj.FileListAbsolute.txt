@@ -1,0 +1,8 @@
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\bin\Debug\netcoreapp3.0\HeijunDomain.deps.json
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\bin\Debug\netcoreapp3.0\HeijunDomain.dll
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\obj\Debug\netcoreapp3.0\HeijunDomain.csprojAssemblyReference.cache
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\obj\Debug\netcoreapp3.0\HeijunDomain.AssemblyInfoInputs.cache
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\obj\Debug\netcoreapp3.0\HeijunDomain.AssemblyInfo.cs
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\bin\Debug\netcoreapp3.0\HeijunDomain.pdb
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\obj\Debug\netcoreapp3.0\HeijunDomain.dll
+C:\Users\felipe.torres\source\repos\HeijunServices\HeijunDomine\obj\Debug\netcoreapp3.0\HeijunDomain.pdb
