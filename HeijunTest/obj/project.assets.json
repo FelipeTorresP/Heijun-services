@@ -4952,11 +4952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunTest\\HeijunTest.csproj",
+      "projectUniqueName": "D:\\tp-despegar\\Heijun-services\\HeijunTest\\HeijunTest.csproj",
       "projectName": "HeijunTest",
-      "projectPath": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunTest\\HeijunTest.csproj",
+      "projectPath": "D:\\tp-despegar\\Heijun-services\\HeijunTest\\HeijunTest.csproj",
       "packagesPath": "C:\\Users\\felipe.torres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunTest\\obj\\",
+      "outputPath": "D:\\tp-despegar\\Heijun-services\\HeijunTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4977,8 +4977,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunDomine\\HeijunDomain.csproj": {
-              "projectPath": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunDomine\\HeijunDomain.csproj"
+            "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj": {
+              "projectPath": "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj"
             }
           }
         }

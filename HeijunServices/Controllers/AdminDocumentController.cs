@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using HeijunDomain.DocumentTemplate;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HeijunServices.Controllers
@@ -11,12 +7,13 @@ namespace HeijunServices.Controllers
     [ApiController]
     public class AdminDocumentController : ControllerBase
     {
-       
+
         // PUT: api/AdminDocument/5
         [HttpPut("{id}")]
         public void UploadDocument(string id)
         {
-            
+            StructureDocumentSave structureDocument = new StructureDocumentSave();
+            structureDocument.SaveStructureDocument(id);
         }
 
     }

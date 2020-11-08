@@ -1,17 +1,98 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunServices\\HeijunServices.csproj": {}
+    "D:\\tp-despegar\\Heijun-services\\HeijunServices\\HeijunServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunServices\\HeijunServices.csproj": {
+    "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunServices\\HeijunServices.csproj",
-        "projectName": "HeijunServices",
-        "projectPath": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunServices\\HeijunServices.csproj",
+        "projectUniqueName": "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj",
+        "projectName": "HeijunDomain",
+        "projectPath": "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj",
         "packagesPath": "C:\\Users\\felipe.torres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.torres\\source\\repos\\HeijunServices\\HeijunServices\\obj\\",
+        "outputPath": "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\felipe.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Syncfusion.DocIO.Net.Core": {
+              "target": "Package",
+              "version": "[18.3.0.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\tp-despegar\\Heijun-services\\HeijunServices\\HeijunServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tp-despegar\\Heijun-services\\HeijunServices\\HeijunServices.csproj",
+        "projectName": "HeijunServices",
+        "projectPath": "D:\\tp-despegar\\Heijun-services\\HeijunServices\\HeijunServices.csproj",
+        "packagesPath": "C:\\Users\\felipe.torres\\.nuget\\packages\\",
+        "outputPath": "D:\\tp-despegar\\Heijun-services\\HeijunServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,7 +112,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj": {
+                "projectPath": "D:\\tp-despegar\\Heijun-services\\HeijunDomine\\HeijunDomain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

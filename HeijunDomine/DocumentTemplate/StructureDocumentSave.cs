@@ -1,6 +1,4 @@
-﻿
-
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using Syncfusion.DocIO;
 using Syncfusion.DocIO.DLS;
 using System.Collections.Generic;
