@@ -2,6 +2,10 @@
 
 Es un aplicativo web que permite a losclientes de notarias agilizar procedimientos que hasta el dia de hoy siguen siendo arcaicos
 
+## Breve presentacion 📦
+
+https://www.canva.com/design/DAEM2Jeg7rI/bVe_jvJEl5uguQWqehSJfg
+
 
 
 ### Pre-requisitos 📋
@@ -13,6 +17,7 @@ se puede ingresar desde dispositivos como computador, smartphone y tablets que t
 ## Despliegue 📦
 
 Esperamos con nuestra aplicacion logarr una integracion continua para asi logarr un despliegue continuo
+
 
 ## Construido con 🛠️
 
