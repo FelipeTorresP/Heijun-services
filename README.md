@@ -1,6 +1,6 @@
 # Heijun services
 
-Heijun services es un aplicativo web que permite a losclientes de notarias agilizar procedimientos que hasta el dia de hoy siguen siendo arcaicos
+Es un aplicativo web que permite a losclientes de notarias agilizar procedimientos que hasta el dia de hoy siguen siendo arcaicos
 
 
 
